@@ -1,5 +1,4 @@
 
-
 # 🛒 E-Commerce Website
 
 A modern, responsive e-commerce platform built with a focus on seamless user experience and clean architecture. This project showcases a complete shopping flow from product discovery to secure checkout.
@@ -47,7 +46,7 @@ To get a local copy up and running, follow these simple steps:
 
 | Homepage | Product Details |
 | :--- | :--- |
-| ![Homepage Placeholder]() | ![Product Page Placeholder](https://via.placeholder.com/400x250?text=Product+Details+Screenshot) |
+| ![Homepage Placeholder](https://github.com/user-attachments/assets/ad3dcab1-f502-4257-bfd5-48b8c2934a87) | ![Product Page Placeholder](https://github.com/user-attachments/assets/77dafc44-12cd-4125-8610-2ab328ebe1ce) |
 
 ## 🤝 Contributing
 
