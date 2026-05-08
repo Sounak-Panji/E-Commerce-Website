@@ -11,7 +11,6 @@ This application provides a comprehensive shopping experience, allowing users to
 
 *   **Detailed Product Views:** In-depth information including specifications, pricing, and high-quality imagery.
 *   **State-Managed Shopping Cart:** Add, update, or remove items with persistent cart logic.
-*   **Seamless Checkout:** A streamlined multi-step checkout process.
 *   **Responsive Design:** Optimized for all devices, from mobile screens to large desktops.
 
 ## 🛠️ Tech Stack
