@@ -1,4 +1,3 @@
-
 # 🛒 E-Commerce Website
 
 A modern, responsive e-commerce platform built with a focus on seamless user experience and clean architecture. This project showcases a complete shopping flow from product discovery to secure checkout.
